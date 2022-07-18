@@ -224,7 +224,7 @@
         background:url(../images/lead-bgCopy.jpg);
         background-size:cover;
         padding:15px;
-        overflow:hidden
+        
     }
     #lead-content{
         position:absolute;
@@ -622,6 +622,13 @@
                 min-height:auto;
                 max-height:auto;
                 padding:100px 15px
+            }
+            #particles-js{
+                height:auto;
+                position:relative;
+                
+                left:auto;
+                top:auto
             }
             #lead-content{
                 position:relative;
